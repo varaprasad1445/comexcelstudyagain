@@ -1,4 +1,7 @@
+import org.testng.annotations.Test;
+
 public class SingleTonTest {
+
 
     public static void main(String[]args){
 
@@ -10,4 +13,5 @@ public class SingleTonTest {
 
 
     }
+
 }
